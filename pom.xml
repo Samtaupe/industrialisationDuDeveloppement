@@ -37,7 +37,7 @@ limitations under the License.
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
         <sonar.organization>samtaupe</sonar.organization>
-        <sonar.projectKey>industrialisationDuDeveloppement</sonar.projectKey>
+        <sonar.projectKey>Samtaupe_industrialisationDuDeveloppement</sonar.projectKey>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
         <sonar.java.libraries></sonar.java.libraries>
     </properties>
